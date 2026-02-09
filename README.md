@@ -135,6 +135,22 @@ A developer who thrives in the shadows of the terminal. I craft code like dealin
 
 <br>
 
+## 🐍 Watch the Snake Hunt
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvilAekt/EvilAekt/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvilAekt/EvilAekt/output/github-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/EvilAekt/EvilAekt/output/github-snake-dark.svg">
+</picture>
+
+<sub>A white serpent devouring my dark contributions...</sub>
+
+</div>
+
+<br>
+
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=footer" width="100%">
 
