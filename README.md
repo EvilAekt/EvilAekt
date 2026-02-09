@@ -127,16 +127,25 @@ Click any square to make your move. The game state updates automatically via Git
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=EvilAekt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" alt="GitHub Stats" height="165">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EvilAekt&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B35&currStreakLabel=00F7F7" alt="GitHub Streak" height="165">
+<!-- GitHub Trophies - Selalu stabil -->
+<img src="https://github-profile-trophy.vercel.app/?username=EvilAekt&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%">
+
+<br><br>
+
+<!-- Stats Card dengan fallback -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=EvilAekt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvilAekt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
+</picture>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EvilAekt&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B35&currStreakLabel=00F7F7" alt="GitHub Streak" height="180">
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilAekt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" alt="Top Languages" height="165">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EvilAekt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180">
 
 </div>
 
