@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 45" width="45" height="45">
     <defs>
                 <linearGradient id="light" x1="0%" y1="0%" x2="100%" y2="100%">
-                    <stop offset="0%" style="stop-color:#FFFCE8"/>
-                    <stop offset="100%" style="stop-color:#EEEED2"/>
+                    <stop offset="0%" style="stop-color:#B8B8B8"/>
+                    <stop offset="100%" style="stop-color:#909090"/>
                 </linearGradient>
             </defs>
             <rect width="45" height="45" fill="url(#light)"/>
     <text x="22.5" y="35" font-size="32" text-anchor="middle" 
-            fill="#fff" stroke="#000" stroke-width="1" font-family="serif">♘</text>
+            fill="#E0E0E0" stroke="#1a1a1a" stroke-width="1.5" font-family="serif">♘</text>
 </svg>

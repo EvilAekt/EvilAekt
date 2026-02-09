@@ -1,46 +1,56 @@
-<!-- SNAKE ANIMATION - Eating contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvilAekt/EvilAekt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvilAekt/EvilAekt/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EvilAekt/EvilAekt/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- 🎴 NOIR THEME - Black & White Mysterious -->
 
-<!-- HEADER WITH TYPING EFFECT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Evil%20Aekt&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descAlignY=51&descAlign=50" width="100%">
+<!-- HEADER - Dark Gradient Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=200&section=header&text=Evil%20Aekt&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=♠%20The%20Code%20Dealer%20♠&descAlignY=55&descAlign=50" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Coding+is+my+superpower;Building+the+future%2C+one+line+at+a+time;Always+learning%2C+never+stopping)](https://git.io/typing-svg)
+<div align="center">
+
+<!-- Typing Effect - Monochrome -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Dealing+code+like+cards...;Every+bug+is+just+a+bluff;Full+Stack+%7C+Dark+Mode+Only)](https://git.io/typing-svg)
 
 <br>
 
-<!-- SOCIAL BADGES -->
+<!-- Social Badges - Monochrome Style -->
 <p>
   <a href="https://www.linkedin.com/in/galang-adhit-181864369/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/galangadhityaram/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.tiktok.com/@evil_aekt">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
   <a href="mailto:galangadhityarama@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-<br>
-
-## 👨‍💻 About Me
-
-Hey there, I'm Evil_Aekt. A developer who loves experimenting with new tech and building useful stuff. My main focus is web development, but I enjoy exploring various stacks and tools.
-
-My coding philosophy: clean code isn't just code that works, it's code that others can read 6 months later.
+</div>
 
 <br>
 
-## ♟️ Let's Play Chess!
+## ♠ About Me
 
-You can play chess with me right here. Pick your move and make it happen!
+```text
+> WHO AM I?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ♠  Name       : Evil_Aekt
+  ♦  Role       : Full Stack Developer
+  ♣  Location   : Indonesia
+  ♥  Philosophy : "In code we trust, in bugs we debug"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+A developer who thrives in the shadows of the terminal. I craft code like dealing cards — precise, calculated, and always with an ace up my sleeve.
+
+<br>
+
+## ♟ Let's Play Chess
+
+*"Life is like a game of chess. I don't know how to play chess."*
 
 <div align="center">
 
@@ -55,134 +65,83 @@ You can play chess with me right here. Pick your move and make it happen!
 | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/a2.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Ca2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/b2.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Cb2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/c2.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Cc2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/d2.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Cd2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/e2.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Ce2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/f2.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Cf2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/g2.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Cg2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/h2.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Ch2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |
 | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/a1.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Ca1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/b1.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Cb1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/c1.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Cc1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/d1.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Cd1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/e1.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Ce1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/f1.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Cf1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/g1.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Cg1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) | [![](https://raw.githubusercontent.com/EvilAekt/EvilAekt/main/chess/h1.svg)](https://github.com/EvilAekt/EvilAekt/issues/new?title=chess%7Cmove%7Ch1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |
 
-Click any square to make your move. The game state updates automatically via GitHub Actions!
+<sub>Click any square to make your move. The shadows will respond.</sub>
 
 </div>
 
 <br>
 
-## 🛠️ Tech Stack
+## 🃏 Arsenal
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-<br>Vue
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-</tr>
-</table>
+<!-- Tech Stack with Dark Theme -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,nextjs&theme=dark" alt="Tech Stack Row 1"/>
+<br>
+<img src="https://skillicons.dev/icons?i=vue,tailwind,postgres,mongodb,docker,git&theme=dark" alt="Tech Stack Row 2"/>
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 The Numbers Don't Lie
 
 <div align="center">
 
-<a href="https://github.com/EvilAekt">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EvilAekt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true"/>
-</a>
-<a href="https://github.com/EvilAekt">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=EvilAekt&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=EvilAekt&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=888888&text_color=888888&count_private=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=EvilAekt&theme=dark&hide_border=true&background=000000&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888"/>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/EvilAekt">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilAekt&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilAekt&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=8"/>
 
 </div>
 
 <br>
 
-## 🔥 Recent Activity
+## � Activity in the Shadows
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EvilAekt&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" alt="Activity Graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EvilAekt&theme=high-contrast&hide_border=true&bg_color=000000&color=888888&line=ffffff&point=888888&area_color=1a1a1a&area=true" width="100%">
 
 <br>
 
-## 💭 Random Dev Quote
+## 🎴 Random Card
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote">
 
 </div>
 
 <br>
 
-## 📫 Get In Touch
-
-Got a cool project or want to discuss tech? Hit me up!
+## ♠ Contact the Dealer
 
 <div align="center">
 
-Email: galangadhityarama@gmail.com  
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║     📧  galangadhityarama@gmail.com                      ║
+║                                                          ║
+║     "The cards have been dealt. Make your move."         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 <br>
 
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=footer" width="100%">
+
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
 
-<p>
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=EvilAekt&color=00F7F7&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=EvilAekt&color=000000&style=flat-square&label=Watchers+in+the+Dark)
 
-</p>
+<sub>♠ ♦ ♣ ♥</sub>
 
 </div>
-
