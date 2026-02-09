@@ -88,14 +88,14 @@ A developer who thrives in the shadows of the terminal. I craft code like dealin
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=EvilAekt&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=888888&text_color=888888&count_private=true"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=EvilAekt&theme=dark&hide_border=true&background=000000&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888"/>
+<!-- GitHub Streak - This one works reliably -->
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=EvilAekt&theme=black-ice&hide_border=true&background=000000&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555"/>
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilAekt&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=8"/>
+<!-- Stats using shields.io - Always reliable -->
+![GitHub followers](https://img.shields.io/github/followers/EvilAekt?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=1a1a1a)
+![GitHub Stars](https://img.shields.io/github/stars/EvilAekt?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=1a1a1a)
 
 </div>
 
@@ -142,10 +142,10 @@ A developer who thrives in the shadows of the terminal. I craft code like dealin
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvilAekt/EvilAekt/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvilAekt/EvilAekt/output/github-snake.svg">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/EvilAekt/EvilAekt/output/github-snake-dark.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/EvilAekt/EvilAekt/output/github-snake-dark.svg" width="100%">
 </picture>
 
-<sub>A white serpent devouring my dark contributions...</sub>
+<sub>🎴 The serpent hunts through the shadows of my commits...</sub>
 
 </div>
 
