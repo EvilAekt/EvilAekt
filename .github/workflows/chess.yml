@@ -22,7 +22,7 @@ jobs:
 
       - name: Make chess move
         run: |
-          python scripts/chess_move.py "${{ github.event.issue.title }}"
+          python .github/workflows/scripts/chess_move.py "${{ github.event.issue.title }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}

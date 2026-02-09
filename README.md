@@ -128,24 +128,20 @@ Click any square to make your move. The game state updates automatically via Git
 
 <div align="center">
 
-<!-- GitHub Trophies - Selalu stabil -->
-<img src="https://github-profile-trophy.vercel.app/?username=EvilAekt&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%">
-
-<br><br>
-
-<!-- Stats Card dengan fallback -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=EvilAekt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvilAekt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
-</picture>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EvilAekt&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B35&currStreakLabel=00F7F7" alt="GitHub Streak" height="180">
+<a href="https://github.com/EvilAekt">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EvilAekt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true"/>
+</a>
+<a href="https://github.com/EvilAekt">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=EvilAekt&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EvilAekt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180">
+<a href="https://github.com/EvilAekt">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilAekt&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8"/>
+</a>
 
 </div>
 
