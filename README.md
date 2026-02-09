@@ -71,7 +71,7 @@ A developer who thrives in the shadows of the terminal. I craft code like dealin
 
 <br>
 
-## 🃏 Arsenal
+## 🃏 My Weapons
 
 <div align="center">
 
